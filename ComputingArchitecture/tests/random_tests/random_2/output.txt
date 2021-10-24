@@ -1,0 +1,4638 @@
+Parallelepiped {
+	length: 886,
+	width: 777,
+	height: 915,
+	square(): 4420134.000000
+}
+Tetrahedron {
+	edgeLength: 335,
+	square(): 194379.401879
+}
+Parallelepiped {
+	length: 492,
+	width: 649,
+	height: 421,
+	square(): 1599338.000000
+}
+Tetrahedron {
+	edgeLength: 27,
+	square(): 1262.665039
+}
+Tetrahedron {
+	edgeLength: 59,
+	square(): 6029.268861
+}
+Tetrahedron {
+	edgeLength: 926,
+	square(): 1485191.998271
+}
+Sphere {
+	radius: 426,
+	square(): 2280494.673611
+}
+Parallelepiped {
+	length: 736,
+	width: 211,
+	height: 368,
+	square(): 1007584.000000
+}
+Sphere {
+	radius: 429,
+	square(): 2312727.414237
+}
+Tetrahedron {
+	edgeLength: 530,
+	square(): 486533.071846
+}
+Tetrahedron {
+	edgeLength: 123,
+	square(): 26204.196668
+}
+Parallelepiped {
+	length: 135,
+	width: 929,
+	height: 802,
+	square(): 1957486.000000
+}
+Sphere {
+	radius: 58,
+	square(): 42273.270747
+}
+Tetrahedron {
+	edgeLength: 167,
+	square(): 48305.164972
+}
+Parallelepiped {
+	length: 456,
+	width: 11,
+	height: 42,
+	square(): 49260.000000
+}
+Sphere {
+	radius: 373,
+	square(): 1748346.577205
+}
+Sphere {
+	radius: 919,
+	square(): 10613066.532434
+}
+Tetrahedron {
+	edgeLength: 537,
+	square(): 499469.759328
+}
+Tetrahedron {
+	edgeLength: 324,
+	square(): 181823.765575
+}
+Tetrahedron {
+	edgeLength: 370,
+	square(): 237117.755556
+}
+Tetrahedron {
+	edgeLength: 526,
+	square(): 479216.889235
+}
+Parallelepiped {
+	length: 980,
+	width: 956,
+	height: 873,
+	square(): 5254016.000000
+}
+Tetrahedron {
+	edgeLength: 170,
+	square(): 50056.268339
+}
+Parallelepiped {
+	length: 281,
+	width: 305,
+	height: 925,
+	square(): 1255510.000000
+}
+Tetrahedron {
+	edgeLength: 327,
+	square(): 185206.460803
+}
+Tetrahedron {
+	edgeLength: 505,
+	square(): 441716.257200
+}
+Parallelepiped {
+	length: 729,
+	width: 313,
+	height: 857,
+	square(): 2242342.000000
+}
+Sphere {
+	radius: 895,
+	square(): 10065977.021367
+}
+Sphere {
+	radius: 545,
+	square(): 3732526.231730
+}
+Tetrahedron {
+	edgeLength: 367,
+	square(): 233288.191221
+}
+Tetrahedron {
+	edgeLength: 364,
+	square(): 229489.803800
+}
+Sphere {
+	radius: 750,
+	square(): 7068583.470577
+}
+Parallelepiped {
+	length: 808,
+	width: 276,
+	height: 178,
+	square(): 831920.000000
+}
+Tetrahedron {
+	edgeLength: 584,
+	square(): 590726.320226
+}
+Sphere {
+	radius: 651,
+	square(): 5325640.432736
+}
+Tetrahedron {
+	edgeLength: 399,
+	square(): 275744.220616
+}
+Sphere {
+	radius: 60,
+	square(): 45238.934212
+}
+Tetrahedron {
+	edgeLength: 368,
+	square(): 234561.248564
+}
+Parallelepiped {
+	length: 12,
+	width: 226,
+	height: 586,
+	square(): 284360.000000
+}
+Sphere {
+	radius: 539,
+	square(): 3650794.557254
+}
+Sphere {
+	radius: 570,
+	square(): 4082813.812605
+}
+Tetrahedron {
+	edgeLength: 378,
+	square(): 247482.347589
+}
+Tetrahedron {
+	edgeLength: 601,
+	square(): 625618.483745
+}
+Tetrahedron {
+	edgeLength: 902,
+	square(): 1409203.465241
+}
+Sphere {
+	radius: 492,
+	square(): 3041865.936394
+}
+Parallelepiped {
+	length: 756,
+	width: 301,
+	height: 280,
+	square(): 1047032.000000
+}
+Tetrahedron {
+	edgeLength: 441,
+	square(): 336850.973107
+}
+Sphere {
+	radius: 689,
+	square(): 5965520.024419
+}
+Parallelepiped {
+	length: 619,
+	width: 440,
+	height: 729,
+	square(): 2088742.000000
+}
+Sphere {
+	radius: 117,
+	square(): 172021.047340
+}
+Sphere {
+	radius: 771,
+	square(): 7469965.914370
+}
+Sphere {
+	radius: 675,
+	square(): 5725552.611167
+}
+Sphere {
+	radius: 927,
+	square(): 10798646.693667
+}
+Sphere {
+	radius: 856,
+	square(): 9207832.138483
+}
+Tetrahedron {
+	edgeLength: 353,
+	square(): 215829.119080
+}
+Sphere {
+	radius: 965,
+	square(): 11702118.475357
+}
+Parallelepiped {
+	length: 683,
+	width: 219,
+	height: 624,
+	square(): 1424850.000000
+}
+Parallelepiped {
+	length: 871,
+	width: 732,
+	height: 829,
+	square(): 3932918.000000
+}
+Sphere {
+	radius: 19,
+	square(): 4536.459792
+}
+Sphere {
+	radius: 368,
+	square(): 1701788.174079
+}
+Parallelepiped {
+	length: 715,
+	width: 340,
+	height: 149,
+	square(): 800590.000000
+}
+Sphere {
+	radius: 723,
+	square(): 6568806.344873
+}
+Tetrahedron {
+	edgeLength: 245,
+	square(): 103966.349724
+}
+Tetrahedron {
+	edgeLength: 451,
+	square(): 352300.866310
+}
+Parallelepiped {
+	length: 555,
+	width: 379,
+	height: 488,
+	square(): 1332274.000000
+}
+Tetrahedron {
+	edgeLength: 228,
+	square(): 90038.929181
+}
+Parallelepiped {
+	length: 350,
+	width: 193,
+	height: 500,
+	square(): 678100.000000
+}
+Tetrahedron {
+	edgeLength: 764,
+	square(): 1010991.128175
+}
+Sphere {
+	radius: 914,
+	square(): 10497895.745753
+}
+Tetrahedron {
+	edgeLength: 856,
+	square(): 1269135.980535
+}
+Sphere {
+	radius: 491,
+	square(): 3029513.194080
+}
+Tetrahedron {
+	edgeLength: 365,
+	square(): 230752.468838
+}
+Sphere {
+	radius: 936,
+	square(): 11009347.029758
+}
+Parallelepiped {
+	length: 551,
+	width: 437,
+	height: 228,
+	square(): 932102.000000
+}
+Tetrahedron {
+	edgeLength: 407,
+	square(): 286912.484223
+}
+Sphere {
+	radius: 121,
+	square(): 183984.232165
+}
+Tetrahedron {
+	edgeLength: 395,
+	square(): 270243.227251
+}
+Tetrahedron {
+	edgeLength: 237,
+	square(): 97287.561810
+}
+Sphere {
+	radius: 793,
+	square(): 7902349.594469
+}
+Tetrahedron {
+	edgeLength: 428,
+	square(): 317283.995134
+}
+Sphere {
+	radius: 11,
+	square(): 1520.530844
+}
+Sphere {
+	radius: 529,
+	square(): 3516585.719093
+}
+Tetrahedron {
+	edgeLength: 404,
+	square(): 282698.404608
+}
+Parallelepiped {
+	length: 763,
+	width: 613,
+	height: 538,
+	square(): 2416014.000000
+}
+Tetrahedron {
+	edgeLength: 840,
+	square(): 1222135.049821
+}
+Parallelepiped {
+	length: 818,
+	width: 128,
+	height: 688,
+	square(): 1511104.000000
+}
+Sphere {
+	radius: 917,
+	square(): 10566922.819538
+}
+Tetrahedron {
+	edgeLength: 996,
+	square(): 1718222.113921
+}
+Tetrahedron {
+	edgeLength: 743,
+	square(): 956176.916268
+}
+Sphere {
+	radius: 183,
+	square(): 420835.185504
+}
+Tetrahedron {
+	edgeLength: 499,
+	square(): 431282.383135
+}
+Parallelepiped {
+	length: 725,
+	width: 644,
+	height: 590,
+	square(): 2549220.000000
+}
+Tetrahedron {
+	edgeLength: 139,
+	square(): 33464.953653
+}
+Tetrahedron {
+	edgeLength: 786,
+	square(): 1070054.060713
+}
+Sphere {
+	radius: 82,
+	square(): 84496.276011
+}
+Sphere {
+	radius: 464,
+	square(): 2705489.327789
+}
+Parallelepiped {
+	length: 507,
+	width: 355,
+	height: 804,
+	square(): 1746066.000000
+}
+Tetrahedron {
+	edgeLength: 611,
+	square(): 646610.939532
+}
+Tetrahedron {
+	edgeLength: 828,
+	square(): 1187466.320856
+}
+Tetrahedron {
+	edgeLength: 343,
+	square(): 203774.045460
+}
+Parallelepiped {
+	length: 568,
+	width: 340,
+	height: 422,
+	square(): 1152592.000000
+}
+Tetrahedron {
+	edgeLength: 810,
+	square(): 1136398.534846
+}
+Sphere {
+	radius: 801,
+	square(): 8062595.952543
+}
+Parallelepiped {
+	length: 730,
+	width: 878,
+	height: 305,
+	square(): 2262760.000000
+}
+Sphere {
+	radius: 736,
+	square(): 6807152.696316
+}
+Parallelepiped {
+	length: 626,
+	width: 522,
+	height: 465,
+	square(): 1721184.000000
+}
+Tetrahedron {
+	edgeLength: 416,
+	square(): 299741.784555
+}
+Sphere {
+	radius: 258,
+	square(): 836467.893574
+}
+Tetrahedron {
+	edgeLength: 637,
+	square(): 702812.524136
+}
+Sphere {
+	radius: 624,
+	square(): 4893043.124337
+}
+Sphere {
+	radius: 36,
+	square(): 16286.016316
+}
+Tetrahedron {
+	edgeLength: 899,
+	square(): 1399845.194728
+}
+Sphere {
+	radius: 550,
+	square(): 3801327.110844
+}
+Tetrahedron {
+	edgeLength: 71,
+	square(): 8731.268121
+}
+Sphere {
+	radius: 131,
+	square(): 215651.486113
+}
+Sphere {
+	radius: 930,
+	square(): 10868653.944359
+}
+Parallelepiped {
+	length: 894,
+	width: 660,
+	height: 163,
+	square(): 1686684.000000
+}
+Parallelepiped {
+	length: 981,
+	width: 899,
+	height: 996,
+	square(): 5508798.000000
+}
+Sphere {
+	radius: 773,
+	square(): 7508770.866827
+}
+Parallelepiped {
+	length: 668,
+	width: 190,
+	height: 95,
+	square(): 416860.000000
+}
+Tetrahedron {
+	edgeLength: 466,
+	square(): 376125.225168
+}
+Tetrahedron {
+	edgeLength: 340,
+	square(): 200225.073355
+}
+Parallelepiped {
+	length: 684,
+	width: 376,
+	height: 542,
+	square(): 1663408.000000
+}
+Sphere {
+	radius: 107,
+	square(): 143872.377164
+}
+Sphere {
+	radius: 756,
+	square(): 7182133.195448
+}
+Parallelepiped {
+	length: 418,
+	width: 887,
+	height: 412,
+	square(): 1816852.000000
+}
+Parallelepiped {
+	length: 172,
+	width: 659,
+	height: 9,
+	square(): 241654.000000
+}
+Tetrahedron {
+	edgeLength: 210,
+	square(): 76383.440614
+}
+Sphere {
+	radius: 587,
+	square(): 4329981.756219
+}
+Sphere {
+	radius: 301,
+	square(): 1138525.744032
+}
+Parallelepiped {
+	length: 372,
+	width: 321,
+	height: 255,
+	square(): 592254.000000
+}
+Tetrahedron {
+	edgeLength: 599,
+	square(): 621461.561807
+}
+Sphere {
+	radius: 904,
+	square(): 10269439.127984
+}
+Parallelepiped {
+	length: 811,
+	width: 940,
+	height: 667,
+	square(): 3860514.000000
+}
+Tetrahedron {
+	edgeLength: 228,
+	square(): 90038.929181
+}
+Tetrahedron {
+	edgeLength: 150,
+	square(): 38971.143170
+}
+Sphere {
+	radius: 658,
+	square(): 5440786.086675
+}
+Sphere {
+	radius: 224,
+	square(): 630530.211946
+}
+Parallelepiped {
+	length: 269,
+	width: 396,
+	height: 81,
+	square(): 320778.000000
+}
+Sphere {
+	radius: 84,
+	square(): 88668.311055
+}
+Parallelepiped {
+	length: 972,
+	width: 672,
+	height: 850,
+	square(): 4101168.000000
+}
+Parallelepiped {
+	length: 385,
+	width: 222,
+	height: 299,
+	square(): 533926.000000
+}
+Parallelepiped {
+	length: 42,
+	width: 898,
+	height: 713,
+	square(): 1415872.000000
+}
+Tetrahedron {
+	edgeLength: 190,
+	square(): 62527.034153
+}
+Sphere {
+	radius: 590,
+	square(): 4374353.610858
+}
+Tetrahedron {
+	edgeLength: 581,
+	square(): 584672.802654
+}
+Sphere {
+	radius: 336,
+	square(): 1418692.976879
+}
+Sphere {
+	radius: 155,
+	square(): 301907.054010
+}
+Tetrahedron {
+	edgeLength: 4,
+	square(): 27.712813
+}
+Tetrahedron {
+	edgeLength: 769,
+	square(): 1024267.297615
+}
+Sphere {
+	radius: 776,
+	square(): 7567166.791072
+}
+Sphere {
+	radius: 255,
+	square(): 817128.249199
+}
+Parallelepiped {
+	length: 142,
+	width: 579,
+	height: 884,
+	square(): 1439164.000000
+}
+Parallelepiped {
+	length: 205,
+	width: 621,
+	height: 567,
+	square(): 1191294.000000
+}
+Tetrahedron {
+	edgeLength: 613,
+	square(): 650850.999909
+}
+Parallelepiped {
+	length: 754,
+	width: 326,
+	height: 259,
+	square(): 1051048.000000
+}
+Parallelepiped {
+	length: 202,
+	width: 202,
+	height: 506,
+	square(): 490456.000000
+}
+Tetrahedron {
+	edgeLength: 21,
+	square(): 763.834406
+}
+Sphere {
+	radius: 868,
+	square(): 9467805.213753
+}
+Sphere {
+	radius: 189,
+	square(): 448883.324716
+}
+Parallelepiped {
+	length: 908,
+	width: 958,
+	height: 498,
+	square(): 3598264.000000
+}
+Sphere {
+	radius: 808,
+	square(): 8204130.984773
+}
+Parallelepiped {
+	length: 248,
+	width: 303,
+	height: 333,
+	square(): 517254.000000
+}
+Parallelepiped {
+	length: 648,
+	width: 890,
+	height: 754,
+	square(): 3472744.000000
+}
+Parallelepiped {
+	length: 746,
+	width: 368,
+	height: 529,
+	square(): 1727668.000000
+}
+Tetrahedron {
+	edgeLength: 46,
+	square(): 3665.019509
+}
+Sphere {
+	radius: 797,
+	square(): 7982271.711576
+}
+Tetrahedron {
+	edgeLength: 990,
+	square(): 1697582.996498
+}
+Parallelepiped {
+	length: 33,
+	width: 363,
+	height: 497,
+	square(): 417582.000000
+}
+Tetrahedron {
+	edgeLength: 892,
+	square(): 1378130.473753
+}
+Sphere {
+	radius: 125,
+	square(): 196349.540849
+}
+Tetrahedron {
+	edgeLength: 996,
+	square(): 1718222.113921
+}
+Parallelepiped {
+	length: 188,
+	width: 157,
+	height: 729,
+	square(): 562042.000000
+}
+Parallelepiped {
+	length: 460,
+	width: 414,
+	height: 921,
+	square(): 1990788.000000
+}
+Sphere {
+	radius: 304,
+	square(): 1161333.706697
+}
+Tetrahedron {
+	edgeLength: 27,
+	square(): 1262.665039
+}
+Tetrahedron {
+	edgeLength: 748,
+	square(): 969089.355038
+}
+Parallelepiped {
+	length: 902,
+	width: 794,
+	height: 697,
+	square(): 3796600.000000
+}
+Parallelepiped {
+	length: 43,
+	width: 39,
+	height: 2,
+	square(): 3682.000000
+}
+Sphere {
+	radius: 403,
+	square(): 2040891.685107
+}
+Tetrahedron {
+	edgeLength: 681,
+	square(): 803257.614569
+}
+Tetrahedron {
+	edgeLength: 538,
+	square(): 501331.713946
+}
+Parallelepiped {
+	length: 151,
+	width: 535,
+	height: 134,
+	square(): 345418.000000
+}
+Parallelepiped {
+	length: 692,
+	width: 215,
+	height: 127,
+	square(): 527938.000000
+}
+Sphere {
+	radius: 629,
+	square(): 4971771.436236
+}
+Parallelepiped {
+	length: 964,
+	width: 285,
+	height: 429,
+	square(): 1621122.000000
+}
+Tetrahedron {
+	edgeLength: 335,
+	square(): 194379.401879
+}
+Sphere {
+	radius: 900,
+	square(): 10178760.197631
+}
+Parallelepiped {
+	length: 971,
+	width: 949,
+	height: 289,
+	square(): 2952718.000000
+}
+Tetrahedron {
+	edgeLength: 988,
+	square(): 1690731.003504
+}
+Sphere {
+	radius: 795,
+	square(): 7942260.387540
+}
+Tetrahedron {
+	edgeLength: 144,
+	square(): 35915.805546
+}
+Sphere {
+	radius: 390,
+	square(): 1911344.970444
+}
+Sphere {
+	radius: 340,
+	square(): 1452672.443020
+}
+Sphere {
+	radius: 569,
+	square(): 4068500.716476
+}
+Tetrahedron {
+	edgeLength: 232,
+	square(): 93225.902667
+}
+Tetrahedron {
+	edgeLength: 42,
+	square(): 3055.337625
+}
+Sphere {
+	radius: 117,
+	square(): 172021.047340
+}
+Sphere {
+	radius: 761,
+	square(): 7277449.116558
+}
+Sphere {
+	radius: 309,
+	square(): 1199849.632630
+}
+Sphere {
+	radius: 425,
+	square(): 2269800.692219
+}
+Tetrahedron {
+	edgeLength: 367,
+	square(): 233288.191221
+}
+Tetrahedron {
+	edgeLength: 234,
+	square(): 94840.174019
+}
+Sphere {
+	radius: 626,
+	square(): 4924459.050873
+}
+Parallelepiped {
+	length: 57,
+	width: 614,
+	height: 168,
+	square(): 295452.000000
+}
+Sphere {
+	radius: 358,
+	square(): 1610556.323419
+}
+Tetrahedron {
+	edgeLength: 386,
+	square(): 258068.642125
+}
+Parallelepiped {
+	length: 346,
+	width: 726,
+	height: 994,
+	square(): 2633528.000000
+}
+Parallelepiped {
+	length: 552,
+	width: 578,
+	height: 529,
+	square(): 1833652.000000
+}
+Sphere {
+	radius: 290,
+	square(): 1056831.768668
+}
+Tetrahedron {
+	edgeLength: 970,
+	square(): 1629686.604842
+}
+Sphere {
+	radius: 80,
+	square(): 80424.771932
+}
+Tetrahedron {
+	edgeLength: 593,
+	square(): 609073.934431
+}
+Parallelepiped {
+	length: 627,
+	width: 312,
+	height: 886,
+	square(): 2055156.000000
+}
+Sphere {
+	radius: 355,
+	square(): 1583676.856675
+}
+Tetrahedron {
+	edgeLength: 90,
+	square(): 14029.611541
+}
+Sphere {
+	radius: 479,
+	square(): 2883240.640129
+}
+Tetrahedron {
+	edgeLength: 969,
+	square(): 1626328.158326
+}
+Sphere {
+	radius: 274,
+	square(): 943432.840244
+}
+Tetrahedron {
+	edgeLength: 641,
+	square(): 711666.767865
+}
+Tetrahedron {
+	edgeLength: 433,
+	square(): 324740.473860
+}
+Sphere {
+	radius: 888,
+	square(): 9909136.149729
+}
+Parallelepiped {
+	length: 566,
+	width: 770,
+	height: 284,
+	square(): 1630488.000000
+}
+Tetrahedron {
+	edgeLength: 417,
+	square(): 301184.582877
+}
+Sphere {
+	radius: 260,
+	square(): 849486.653531
+}
+Parallelepiped {
+	length: 237,
+	width: 205,
+	height: 59,
+	square(): 149326.000000
+}
+Tetrahedron {
+	edgeLength: 518,
+	square(): 464750.800890
+}
+Tetrahedron {
+	edgeLength: 783,
+	square(): 1061901.297562
+}
+Parallelepiped {
+	length: 458,
+	width: 873,
+	height: 637,
+	square(): 2495362.000000
+}
+Sphere {
+	radius: 483,
+	square(): 2931596.034253
+}
+Parallelepiped {
+	length: 478,
+	width: 757,
+	height: 314,
+	square(): 1499272.000000
+}
+Sphere {
+	radius: 729,
+	square(): 6678284.565666
+}
+Sphere {
+	radius: 459,
+	square(): 2647495.527404
+}
+Tetrahedron {
+	edgeLength: 438,
+	square(): 332283.555127
+}
+Tetrahedron {
+	edgeLength: 388,
+	square(): 260749.856775
+}
+Sphere {
+	radius: 233,
+	square(): 682215.694283
+}
+Parallelepiped {
+	length: 681,
+	width: 493,
+	height: 358,
+	square(): 1512050.000000
+}
+Parallelepiped {
+	length: 699,
+	width: 417,
+	height: 839,
+	square(): 2455614.000000
+}
+Tetrahedron {
+	edgeLength: 363,
+	square(): 228230.602863
+}
+Parallelepiped {
+	length: 794,
+	width: 173,
+	height: 847,
+	square(): 1912822.000000
+}
+Sphere {
+	radius: 462,
+	square(): 2682216.409411
+}
+Sphere {
+	radius: 390,
+	square(): 1911344.970444
+}
+Tetrahedron {
+	edgeLength: 791,
+	square(): 1083711.281331
+}
+Tetrahedron {
+	edgeLength: 115,
+	square(): 22906.371930
+}
+Tetrahedron {
+	edgeLength: 157,
+	square(): 42693.320356
+}
+Parallelepiped {
+	length: 491,
+	width: 947,
+	height: 951,
+	square(): 3665030.000000
+}
+Sphere {
+	radius: 21,
+	square(): 5541.769441
+}
+Tetrahedron {
+	edgeLength: 740,
+	square(): 948471.022225
+}
+Sphere {
+	radius: 30,
+	square(): 11309.733553
+}
+Tetrahedron {
+	edgeLength: 325,
+	square(): 182947.866549
+}
+Parallelepiped {
+	length: 516,
+	width: 516,
+	height: 2,
+	square(): 536640.000000
+}
+Sphere {
+	radius: 139,
+	square(): 242794.846640
+}
+Tetrahedron {
+	edgeLength: 404,
+	square(): 282698.404608
+}
+Tetrahedron {
+	edgeLength: 580,
+	square(): 582661.891666
+}
+Sphere {
+	radius: 21,
+	square(): 5541.769441
+}
+Sphere {
+	radius: 862,
+	square(): 9337366.286776
+}
+Parallelepiped {
+	length: 379,
+	width: 977,
+	height: 685,
+	square(): 2598286.000000
+}
+Tetrahedron {
+	edgeLength: 904,
+	square(): 1415459.632758
+}
+Sphere {
+	radius: 483,
+	square(): 2931596.034253
+}
+Tetrahedron {
+	edgeLength: 759,
+	square(): 997801.561275
+}
+Sphere {
+	radius: 744,
+	square(): 6955938.524390
+}
+Sphere {
+	radius: 911,
+	square(): 10429094.866640
+}
+Tetrahedron {
+	edgeLength: 950,
+	square(): 1563175.853831
+}
+Tetrahedron {
+	edgeLength: 560,
+	square(): 543171.133254
+}
+Sphere {
+	radius: 105,
+	square(): 138544.236023
+}
+Sphere {
+	radius: 49,
+	square(): 30171.855845
+}
+Tetrahedron {
+	edgeLength: 711,
+	square(): 875588.056293
+}
+Tetrahedron {
+	edgeLength: 934,
+	square(): 1510964.914288
+}
+Parallelepiped {
+	length: 375,
+	width: 955,
+	height: 614,
+	square(): 2349490.000000
+}
+Parallelepiped {
+	length: 768,
+	width: 993,
+	height: 918,
+	square(): 4758444.000000
+}
+Sphere {
+	radius: 882,
+	square(): 9775681.293805
+}
+Tetrahedron {
+	edgeLength: 982,
+	square(): 1670258.162958
+}
+Tetrahedron {
+	edgeLength: 30,
+	square(): 1558.845727
+}
+Sphere {
+	radius: 574,
+	square(): 4140317.524537
+}
+Parallelepiped {
+	length: 593,
+	width: 486,
+	height: 253,
+	square(): 1122370.000000
+}
+Tetrahedron {
+	edgeLength: 74,
+	square(): 9484.710222
+}
+Tetrahedron {
+	edgeLength: 713,
+	square(): 880520.936993
+}
+Tetrahedron {
+	edgeLength: 377,
+	square(): 246174.649229
+}
+Sphere {
+	radius: 775,
+	square(): 7547676.350249
+}
+Tetrahedron {
+	edgeLength: 919,
+	square(): 1462822.562091
+}
+Tetrahedron {
+	edgeLength: 732,
+	square(): 928074.391915
+}
+Sphere {
+	radius: 17,
+	square(): 3631.681108
+}
+Tetrahedron {
+	edgeLength: 235,
+	square(): 95652.505848
+}
+Parallelepiped {
+	length: 691,
+	width: 153,
+	height: 943,
+	square(): 1803230.000000
+}
+Parallelepiped {
+	length: 328,
+	width: 925,
+	height: 291,
+	square(): 1336046.000000
+}
+Tetrahedron {
+	edgeLength: 18,
+	square(): 561.184462
+}
+Parallelepiped {
+	length: 836,
+	width: 963,
+	height: 55,
+	square(): 1808026.000000
+}
+Parallelepiped {
+	length: 858,
+	width: 130,
+	height: 904,
+	square(): 2009384.000000
+}
+Tetrahedron {
+	edgeLength: 661,
+	square(): 756769.370894
+}
+Sphere {
+	radius: 685,
+	square(): 5896455.251523
+}
+Parallelepiped {
+	length: 73,
+	width: 604,
+	height: 851,
+	square(): 1240438.000000
+}
+Tetrahedron {
+	edgeLength: 250,
+	square(): 108253.175473
+}
+Sphere {
+	radius: 503,
+	square(): 3179404.862768
+}
+Sphere {
+	radius: 6,
+	square(): 452.389342
+}
+Sphere {
+	radius: 639,
+	square(): 5131113.015626
+}
+Parallelepiped {
+	length: 120,
+	width: 967,
+	height: 226,
+	square(): 723404.000000
+}
+Parallelepiped {
+	length: 677,
+	width: 596,
+	height: 981,
+	square(): 3304610.000000
+}
+Parallelepiped {
+	length: 560,
+	width: 36,
+	height: 955,
+	square(): 1178680.000000
+}
+Sphere {
+	radius: 518,
+	square(): 3371858.828727
+}
+Sphere {
+	radius: 342,
+	square(): 1469812.972538
+}
+Tetrahedron {
+	edgeLength: 196,
+	square(): 66538.463824
+}
+Parallelepiped {
+	length: 321,
+	width: 270,
+	height: 984,
+	square(): 1336428.000000
+}
+Parallelepiped {
+	length: 427,
+	width: 234,
+	height: 40,
+	square(): 252716.000000
+}
+Sphere {
+	radius: 72,
+	square(): 65144.065265
+}
+Parallelepiped {
+	length: 830,
+	width: 63,
+	height: 347,
+	square(): 724322.000000
+}
+Sphere {
+	radius: 30,
+	square(): 11309.733553
+}
+Parallelepiped {
+	length: 714,
+	width: 59,
+	height: 522,
+	square(): 891264.000000
+}
+Sphere {
+	radius: 924,
+	square(): 10728865.637645
+}
+Sphere {
+	radius: 435,
+	square(): 2377871.479502
+}
+Sphere {
+	radius: 204,
+	square(): 522962.079487
+}
+Parallelepiped {
+	length: 443,
+	width: 898,
+	height: 486,
+	square(): 2099080.000000
+}
+Tetrahedron {
+	edgeLength: 278,
+	square(): 133859.814612
+}
+Parallelepiped {
+	length: 262,
+	width: 262,
+	height: 683,
+	square(): 853072.000000
+}
+Tetrahedron {
+	edgeLength: 848,
+	square(): 1245524.663926
+}
+Parallelepiped {
+	length: 324,
+	width: 272,
+	height: 122,
+	square(): 321680.000000
+}
+Sphere {
+	radius: 335,
+	square(): 1410260.942196
+}
+Sphere {
+	radius: 457,
+	square(): 2624473.936438
+}
+Sphere {
+	radius: 747,
+	square(): 7012147.900148
+}
+Parallelepiped {
+	length: 776,
+	width: 269,
+	height: 218,
+	square(): 873108.000000
+}
+Tetrahedron {
+	edgeLength: 703,
+	square(): 855995.097558
+}
+Parallelepiped {
+	length: 933,
+	width: 907,
+	height: 959,
+	square(): 5221582.000000
+}
+Sphere {
+	radius: 806,
+	square(): 8163566.740430
+}
+Parallelepiped {
+	length: 720,
+	width: 84,
+	height: 308,
+	square(): 616224.000000
+}
+Sphere {
+	radius: 698,
+	square(): 6122386.028798
+}
+Sphere {
+	radius: 376,
+	square(): 1776583.211976
+}
+Sphere {
+	radius: 715,
+	square(): 6424242.817326
+}
+Sphere {
+	radius: 171,
+	square(): 367453.243134
+}
+Sphere {
+	radius: 559,
+	square(): 3926752.055946
+}
+Tetrahedron {
+	edgeLength: 10,
+	square(): 173.205081
+}
+Parallelepiped {
+	length: 224,
+	width: 109,
+	height: 539,
+	square(): 407806.000000
+}
+Sphere {
+	radius: 378,
+	square(): 1795533.298862
+}
+Tetrahedron {
+	edgeLength: 53,
+	square(): 4865.330718
+}
+Tetrahedron {
+	edgeLength: 114,
+	square(): 22509.732295
+}
+Sphere {
+	radius: 989,
+	square(): 12291430.991688
+}
+Sphere {
+	radius: 67,
+	square(): 56410.437688
+}
+Tetrahedron {
+	edgeLength: 223,
+	square(): 86133.154610
+}
+Parallelepiped {
+	length: 231,
+	width: 532,
+	height: 122,
+	square(): 431956.000000
+}
+Parallelepiped {
+	length: 875,
+	width: 850,
+	height: 179,
+	square(): 2105050.000000
+}
+Tetrahedron {
+	edgeLength: 254,
+	square(): 111744.989901
+}
+Sphere {
+	radius: 131,
+	square(): 215651.486113
+}
+Sphere {
+	radius: 857,
+	square(): 9229358.331345
+}
+Tetrahedron {
+	edgeLength: 181,
+	square(): 56743.716507
+}
+Parallelepiped {
+	length: 603,
+	width: 720,
+	height: 433,
+	square(): 2014038.000000
+}
+Tetrahedron {
+	edgeLength: 181,
+	square(): 56743.716507
+}
+Sphere {
+	radius: 415,
+	square(): 2164243.179058
+}
+Parallelepiped {
+	length: 825,
+	width: 404,
+	height: 722,
+	square(): 2441276.000000
+}
+Parallelepiped {
+	length: 551,
+	width: 297,
+	height: 32,
+	square(): 381566.000000
+}
+Sphere {
+	radius: 181,
+	square(): 411686.867697
+}
+Parallelepiped {
+	length: 415,
+	width: 57,
+	height: 708,
+	square(): 715662.000000
+}
+Sphere {
+	radius: 999,
+	square(): 12541250.439501
+}
+Sphere {
+	radius: 297,
+	square(): 1108466.985522
+}
+Sphere {
+	radius: 776,
+	square(): 7567166.791072
+}
+Parallelepiped {
+	length: 977,
+	width: 309,
+	height: 587,
+	square(): 2113550.000000
+}
+Sphere {
+	radius: 382,
+	square(): 1833735.065530
+}
+Sphere {
+	radius: 266,
+	square(): 889146.119190
+}
+Parallelepiped {
+	length: 860,
+	width: 682,
+	height: 211,
+	square(): 1823764.000000
+}
+Parallelepiped {
+	length: 86,
+	width: 285,
+	height: 930,
+	square(): 739080.000000
+}
+Sphere {
+	radius: 583,
+	square(): 4271171.141744
+}
+Sphere {
+	radius: 476,
+	square(): 2847237.988319
+}
+Parallelepiped {
+	length: 820,
+	width: 892,
+	height: 525,
+	square(): 3260480.000000
+}
+Sphere {
+	radius: 839,
+	square(): 8845732.169230
+}
+Tetrahedron {
+	edgeLength: 490,
+	square(): 415865.398897
+}
+Tetrahedron {
+	edgeLength: 360,
+	square(): 224473.784661
+}
+Tetrahedron {
+	edgeLength: 643,
+	square(): 716114.674339
+}
+Tetrahedron {
+	edgeLength: 928,
+	square(): 1491614.442665
+}
+Sphere {
+	radius: 621,
+	square(): 4846107.730092
+}
+Sphere {
+	radius: 955,
+	square(): 11460844.159561
+}
+Parallelepiped {
+	length: 225,
+	width: 815,
+	height: 570,
+	square(): 1552350.000000
+}
+Sphere {
+	radius: 853,
+	square(): 9143404.356343
+}
+Sphere {
+	radius: 722,
+	square(): 6550647.939336
+}
+Sphere {
+	radius: 350,
+	square(): 1539380.400259
+}
+Sphere {
+	radius: 97,
+	square(): 118236.981111
+}
+Sphere {
+	radius: 126,
+	square(): 199503.699874
+}
+Tetrahedron {
+	edgeLength: 71,
+	square(): 8731.268121
+}
+Sphere {
+	radius: 149,
+	square(): 278985.994009
+}
+Tetrahedron {
+	edgeLength: 528,
+	square(): 482868.052337
+}
+Sphere {
+	radius: 398,
+	square(): 1990563.370797
+}
+Sphere {
+	radius: 610,
+	square(): 4675946.505603
+}
+Tetrahedron {
+	edgeLength: 577,
+	square(): 576649.943313
+}
+Sphere {
+	radius: 976,
+	square(): 11970423.054344
+}
+Parallelepiped {
+	length: 552,
+	width: 931,
+	height: 87,
+	square(): 1285866.000000
+}
+Sphere {
+	radius: 99,
+	square(): 123162.998391
+}
+Sphere {
+	radius: 566,
+	square(): 4025712.224534
+}
+Parallelepiped {
+	length: 17,
+	width: 641,
+	height: 735,
+	square(): 989054.000000
+}
+Sphere {
+	radius: 298,
+	square(): 1115943.976038
+}
+Tetrahedron {
+	edgeLength: 195,
+	square(): 65861.231958
+}
+Sphere {
+	radius: 805,
+	square(): 8143322.317370
+}
+Parallelepiped {
+	length: 428,
+	width: 954,
+	height: 528,
+	square(): 2276016.000000
+}
+Tetrahedron {
+	edgeLength: 593,
+	square(): 609073.934431
+}
+Parallelepiped {
+	length: 197,
+	width: 555,
+	height: 672,
+	square(): 1229358.000000
+}
+Sphere {
+	radius: 445,
+	square(): 2488455.540908
+}
+Tetrahedron {
+	edgeLength: 325,
+	square(): 182947.866549
+}
+Tetrahedron {
+	edgeLength: 283,
+	square(): 138718.217127
+}
+Parallelepiped {
+	length: 127,
+	width: 382,
+	height: 421,
+	square(): 525606.000000
+}
+Tetrahedron {
+	edgeLength: 334,
+	square(): 193220.659889
+}
+Parallelepiped {
+	length: 334,
+	width: 421,
+	height: 159,
+	square(): 521318.000000
+}
+Tetrahedron {
+	edgeLength: 957,
+	square(): 1586297.000061
+}
+Tetrahedron {
+	edgeLength: 761,
+	square(): 1003066.995730
+}
+Tetrahedron {
+	edgeLength: 972,
+	square(): 1636413.890178
+}
+Parallelepiped {
+	length: 716,
+	width: 852,
+	height: 850,
+	square(): 3885664.000000
+}
+Tetrahedron {
+	edgeLength: 482,
+	square(): 402396.971818
+}
+Tetrahedron {
+	edgeLength: 217,
+	square(): 81560.540478
+}
+Sphere {
+	radius: 173,
+	square(): 376098.906117
+}
+Sphere {
+	radius: 506,
+	square(): 3217443.266618
+}
+Sphere {
+	radius: 364,
+	square(): 1664993.840920
+}
+Tetrahedron {
+	edgeLength: 263,
+	square(): 119804.222309
+}
+Parallelepiped {
+	length: 172,
+	width: 37,
+	height: 537,
+	square(): 237194.000000
+}
+Tetrahedron {
+	edgeLength: 828,
+	square(): 1187466.320856
+}
+Sphere {
+	radius: 280,
+	square(): 985203.456166
+}
+Sphere {
+	radius: 856,
+	square(): 9207832.138483
+}
+Parallelepiped {
+	length: 341,
+	width: 970,
+	height: 352,
+	square(): 1584484.000000
+}
+Parallelepiped {
+	length: 511,
+	width: 69,
+	height: 517,
+	square(): 670238.000000
+}
+Tetrahedron {
+	edgeLength: 83,
+	square(): 11932.098013
+}
+Parallelepiped {
+	length: 112,
+	width: 300,
+	height: 506,
+	square(): 484144.000000
+}
+Sphere {
+	radius: 667,
+	square(): 5590640.056252
+}
+Sphere {
+	radius: 489,
+	square(): 3004883.107676
+}
+Parallelepiped {
+	length: 154,
+	width: 104,
+	height: 875,
+	square(): 483532.000000
+}
+Sphere {
+	radius: 141,
+	square(): 249832.014184
+}
+Tetrahedron {
+	edgeLength: 538,
+	square(): 501331.713946
+}
+Tetrahedron {
+	edgeLength: 636,
+	square(): 700607.623458
+}
+Tetrahedron {
+	edgeLength: 956,
+	square(): 1582983.586866
+}
+Parallelepiped {
+	length: 760,
+	width: 649,
+	height: 814,
+	square(): 3280332.000000
+}
+Tetrahedron {
+	edgeLength: 314,
+	square(): 170773.281423
+}
+Sphere {
+	radius: 886,
+	square(): 9864550.666789
+}
+Tetrahedron {
+	edgeLength: 39,
+	square(): 2634.449278
+}
+Parallelepiped {
+	length: 535,
+	width: 152,
+	height: 621,
+	square(): 1015894.000000
+}
+Parallelepiped {
+	length: 790,
+	width: 289,
+	height: 109,
+	square(): 691842.000000
+}
+Parallelepiped {
+	length: 673,
+	width: 264,
+	height: 735,
+	square(): 1732734.000000
+}
+Parallelepiped {
+	length: 295,
+	width: 877,
+	height: 313,
+	square(): 1251102.000000
+}
+Tetrahedron {
+	edgeLength: 198,
+	square(): 67903.319860
+}
+Sphere {
+	radius: 355,
+	square(): 1583676.856675
+}
+Tetrahedron {
+	edgeLength: 793,
+	square(): 1089198.418289
+}
+Parallelepiped {
+	length: 156,
+	width: 960,
+	height: 933,
+	square(): 2381976.000000
+}
+Parallelepiped {
+	length: 286,
+	width: 171,
+	height: 358,
+	square(): 425024.000000
+}
+Tetrahedron {
+	edgeLength: 140,
+	square(): 33948.195828
+}
+Sphere {
+	radius: 181,
+	square(): 411686.867697
+}
+Tetrahedron {
+	edgeLength: 990,
+	square(): 1697582.996498
+}
+Parallelepiped {
+	length: 50,
+	width: 100,
+	height: 954,
+	square(): 296200.000000
+}
+Sphere {
+	radius: 364,
+	square(): 1664993.840920
+}
+Parallelepiped {
+	length: 624,
+	width: 659,
+	height: 919,
+	square(): 3180586.000000
+}
+Tetrahedron {
+	edgeLength: 844,
+	square(): 1233802.144060
+}
+Sphere {
+	radius: 238,
+	square(): 711809.497080
+}
+Parallelepiped {
+	length: 976,
+	width: 383,
+	height: 19,
+	square(): 799258.000000
+}
+Sphere {
+	radius: 343,
+	square(): 1478420.936409
+}
+Sphere {
+	radius: 956,
+	square(): 11484858.493805
+}
+Parallelepiped {
+	length: 475,
+	width: 666,
+	height: 11,
+	square(): 657802.000000
+}
+Tetrahedron {
+	edgeLength: 912,
+	square(): 1440622.866891
+}
+Tetrahedron {
+	edgeLength: 729,
+	square(): 920482.813225
+}
+Sphere {
+	radius: 868,
+	square(): 9467805.213753
+}
+Parallelepiped {
+	length: 2,
+	width: 174,
+	height: 207,
+	square(): 73560.000000
+}
+Parallelepiped {
+	length: 216,
+	width: 183,
+	height: 377,
+	square(): 379902.000000
+}
+Parallelepiped {
+	length: 472,
+	width: 573,
+	height: 957,
+	square(): 2541042.000000
+}
+Parallelepiped {
+	length: 125,
+	width: 933,
+	height: 797,
+	square(): 1919702.000000
+}
+Sphere {
+	radius: 418,
+	square(): 2195646.539223
+}
+Sphere {
+	radius: 153,
+	square(): 294166.169712
+}
+Tetrahedron {
+	edgeLength: 474,
+	square(): 389150.247241
+}
+Sphere {
+	radius: 393,
+	square(): 1940863.375017
+}
+Parallelepiped {
+	length: 948,
+	width: 305,
+	height: 30,
+	square(): 653460.000000
+}
+Sphere {
+	radius: 559,
+	square(): 3926752.055946
+}
+Parallelepiped {
+	length: 160,
+	width: 562,
+	height: 424,
+	square(): 792096.000000
+}
+Parallelepiped {
+	length: 280,
+	width: 641,
+	height: 902,
+	square(): 2020444.000000
+}
+Parallelepiped {
+	length: 480,
+	width: 726,
+	height: 583,
+	square(): 2103156.000000
+}
+Parallelepiped {
+	length: 140,
+	width: 708,
+	height: 723,
+	square(): 1424448.000000
+}
+Tetrahedron {
+	edgeLength: 557,
+	square(): 537367.030997
+}
+Tetrahedron {
+	edgeLength: 431,
+	square(): 321747.490065
+}
+Sphere {
+	radius: 220,
+	square(): 608212.337735
+}
+Tetrahedron {
+	edgeLength: 690,
+	square(): 824629.389484
+}
+Tetrahedron {
+	edgeLength: 391,
+	square(): 264797.659512
+}
+Sphere {
+	radius: 270,
+	square(): 916088.417787
+}
+Sphere {
+	radius: 667,
+	square(): 5590640.056252
+}
+Sphere {
+	radius: 671,
+	square(): 5657895.271780
+}
+Sphere {
+	radius: 743,
+	square(): 6937252.331286
+}
+Sphere {
+	radius: 899,
+	square(): 10156153.296896
+}
+Parallelepiped {
+	length: 88,
+	width: 154,
+	height: 386,
+	square(): 213928.000000
+}
+Tetrahedron {
+	edgeLength: 232,
+	square(): 93225.902667
+}
+Tetrahedron {
+	edgeLength: 710,
+	square(): 873126.812095
+}
+Tetrahedron {
+	edgeLength: 30,
+	square(): 1558.845727
+}
+Tetrahedron {
+	edgeLength: 663,
+	square(): 761355.841432
+}
+Parallelepiped {
+	length: 279,
+	width: 94,
+	height: 649,
+	square(): 536606.000000
+}
+Tetrahedron {
+	edgeLength: 351,
+	square(): 213390.391543
+}
+Tetrahedron {
+	edgeLength: 464,
+	square(): 372903.610666
+}
+Sphere {
+	radius: 330,
+	square(): 1368477.759904
+}
+Parallelepiped {
+	length: 515,
+	width: 349,
+	height: 915,
+	square(): 1940590.000000
+}
+Sphere {
+	radius: 881,
+	square(): 9753526.782412
+}
+Sphere {
+	radius: 634,
+	square(): 5051128.066665
+}
+Sphere {
+	radius: 387,
+	square(): 1882052.760542
+}
+Tetrahedron {
+	edgeLength: 287,
+	square(): 142667.292969
+}
+Tetrahedron {
+	edgeLength: 643,
+	square(): 716114.674339
+}
+Sphere {
+	radius: 742,
+	square(): 6918591.270924
+}
+Parallelepiped {
+	length: 244,
+	width: 124,
+	height: 139,
+	square(): 162816.000000
+}
+Sphere {
+	radius: 63,
+	square(): 49875.924968
+}
+Parallelepiped {
+	length: 353,
+	width: 712,
+	height: 269,
+	square(): 1075642.000000
+}
+Tetrahedron {
+	edgeLength: 404,
+	square(): 282698.404608
+}
+Sphere {
+	radius: 799,
+	square(): 8022383.566578
+}
+Tetrahedron {
+	edgeLength: 819,
+	square(): 1161792.131736
+}
+Tetrahedron {
+	edgeLength: 435,
+	square(): 327747.314062
+}
+Parallelepiped {
+	length: 853,
+	width: 669,
+	height: 450,
+	square(): 2511114.000000
+}
+Tetrahedron {
+	edgeLength: 802,
+	square(): 1114062.007632
+}
+Parallelepiped {
+	length: 562,
+	width: 89,
+	height: 610,
+	square(): 894256.000000
+}
+Tetrahedron {
+	edgeLength: 960,
+	square(): 1596258.024255
+}
+Tetrahedron {
+	edgeLength: 911,
+	square(): 1437465.338268
+}
+Parallelepiped {
+	length: 829,
+	width: 403,
+	height: 816,
+	square(): 2678798.000000
+}
+Sphere {
+	radius: 821,
+	square(): 8470249.015273
+}
+Tetrahedron {
+	edgeLength: 605,
+	square(): 633973.896840
+}
+Tetrahedron {
+	edgeLength: 579,
+	square(): 580654.444780
+}
+Sphere {
+	radius: 528,
+	square(): 3503303.065354
+}
+Tetrahedron {
+	edgeLength: 447,
+	square(): 346079.339810
+}
+Sphere {
+	radius: 45,
+	square(): 25446.900494
+}
+Tetrahedron {
+	edgeLength: 787,
+	square(): 1072778.576633
+}
+Sphere {
+	radius: 551,
+	square(): 3815162.684890
+}
+Parallelepiped {
+	length: 386,
+	width: 353,
+	height: 426,
+	square(): 902144.000000
+}
+Tetrahedron {
+	edgeLength: 794,
+	square(): 1091947.182920
+}
+Tetrahedron {
+	edgeLength: 506,
+	square(): 443467.360567
+}
+Parallelepiped {
+	length: 92,
+	width: 417,
+	height: 664,
+	square(): 752680.000000
+}
+Parallelepiped {
+	length: 820,
+	width: 480,
+	height: 166,
+	square(): 1218800.000000
+}
+Sphere {
+	radius: 354,
+	square(): 1574767.299909
+}
+Tetrahedron {
+	edgeLength: 437,
+	square(): 330768.010671
+}
+Tetrahedron {
+	edgeLength: 484,
+	square(): 405743.293978
+}
+Sphere {
+	radius: 312,
+	square(): 1223260.781084
+}
+Tetrahedron {
+	edgeLength: 17,
+	square(): 500.562683
+}
+Tetrahedron {
+	edgeLength: 165,
+	square(): 47155.083236
+}
+Tetrahedron {
+	edgeLength: 608,
+	square(): 640276.829729
+}
+Parallelepiped {
+	length: 745,
+	width: 995,
+	height: 422,
+	square(): 2951110.000000
+}
+Tetrahedron {
+	edgeLength: 295,
+	square(): 150731.721529
+}
+Parallelepiped {
+	length: 559,
+	width: 801,
+	height: 676,
+	square(): 2734238.000000
+}
+Tetrahedron {
+	edgeLength: 571,
+	square(): 564719.577351
+}
+Parallelepiped {
+	length: 925,
+	width: 743,
+	height: 172,
+	square(): 1948342.000000
+}
+Parallelepiped {
+	length: 89,
+	width: 527,
+	height: 566,
+	square(): 791118.000000
+}
+Sphere {
+	radius: 812,
+	square(): 8285561.066354
+}
+Sphere {
+	radius: 196,
+	square(): 482749.693521
+}
+Tetrahedron {
+	edgeLength: 333,
+	square(): 192065.382001
+}
+Parallelepiped {
+	length: 186,
+	width: 499,
+	height: 370,
+	square(): 692528.000000
+}
+Tetrahedron {
+	edgeLength: 568,
+	square(): 558801.159741
+}
+Parallelepiped {
+	length: 141,
+	width: 342,
+	height: 639,
+	square(): 713718.000000
+}
+Tetrahedron {
+	edgeLength: 263,
+	square(): 119804.222309
+}
+Parallelepiped {
+	length: 590,
+	width: 939,
+	height: 202,
+	square(): 1725736.000000
+}
+Tetrahedron {
+	edgeLength: 631,
+	square(): 689635.081592
+}
+Sphere {
+	radius: 257,
+	square(): 829996.212708
+}
+Parallelepiped {
+	length: 571,
+	width: 346,
+	height: 683,
+	square(): 1647754.000000
+}
+Parallelepiped {
+	length: 225,
+	width: 495,
+	height: 540,
+	square(): 1000350.000000
+}
+Parallelepiped {
+	length: 972,
+	width: 226,
+	height: 634,
+	square(): 1958408.000000
+}
+Sphere {
+	radius: 725,
+	square(): 6605198.554173
+}
+Parallelepiped {
+	length: 952,
+	width: 645,
+	height: 472,
+	square(): 2735648.000000
+}
+Sphere {
+	radius: 339,
+	square(): 1444139.877373
+}
+Tetrahedron {
+	edgeLength: 883,
+	square(): 1350460.962103
+}
+Sphere {
+	radius: 661,
+	square(): 5490511.215196
+}
+Tetrahedron {
+	edgeLength: 542,
+	square(): 508814.173435
+}
+Parallelepiped {
+	length: 339,
+	width: 174,
+	height: 344,
+	square(): 470916.000000
+}
+Parallelepiped {
+	length: 330,
+	width: 267,
+	height: 294,
+	square(): 527256.000000
+}
+Tetrahedron {
+	edgeLength: 757,
+	square(): 992549.983227
+}
+Parallelepiped {
+	length: 860,
+	width: 650,
+	height: 292,
+	square(): 1999840.000000
+}
+Tetrahedron {
+	edgeLength: 876,
+	square(): 1329134.220509
+}
+Parallelepiped {
+	length: 990,
+	width: 953,
+	height: 635,
+	square(): 4354550.000000
+}
+Sphere {
+	radius: 598,
+	square(): 4493784.397177
+}
+Tetrahedron {
+	edgeLength: 741,
+	square(): 951036.189471
+}
+Sphere {
+	radius: 570,
+	square(): 4082813.812605
+}
+Sphere {
+	radius: 540,
+	square(): 3664353.671147
+}
+Tetrahedron {
+	edgeLength: 801,
+	square(): 1111285.530187
+}
+Sphere {
+	radius: 800,
+	square(): 8042477.193190
+}
+Tetrahedron {
+	edgeLength: 609,
+	square(): 642384.735562
+}
+Tetrahedron {
+	edgeLength: 440,
+	square(): 335325.036345
+}
+Tetrahedron {
+	edgeLength: 763,
+	square(): 1008346.286592
+}
+Sphere {
+	radius: 304,
+	square(): 1161333.706697
+}
+Tetrahedron {
+	edgeLength: 606,
+	square(): 636071.410368
+}
+Parallelepiped {
+	length: 523,
+	width: 251,
+	height: 349,
+	square(): 802798.000000
+}
+Sphere {
+	radius: 530,
+	square(): 3529893.505573
+}
+Parallelepiped {
+	length: 704,
+	width: 165,
+	height: 986,
+	square(): 1945988.000000
+}
+Tetrahedron {
+	edgeLength: 625,
+	square(): 676582.346707
+}
+Sphere {
+	radius: 591,
+	square(): 4389194.494554
+}
+Tetrahedron {
+	edgeLength: 407,
+	square(): 286912.484223
+}
+Tetrahedron {
+	edgeLength: 131,
+	square(): 29723.723909
+}
+Tetrahedron {
+	edgeLength: 919,
+	square(): 1462822.562091
+}
+Parallelepiped {
+	length: 53,
+	width: 528,
+	height: 427,
+	square(): 552142.000000
+}
+Sphere {
+	radius: 819,
+	square(): 8429031.319658
+}
+Tetrahedron {
+	edgeLength: 581,
+	square(): 584672.802654
+}
+Parallelepiped {
+	length: 768,
+	width: 187,
+	height: 639,
+	square(): 1507722.000000
+}
+Sphere {
+	radius: 438,
+	square(): 2410782.804141
+}
+Tetrahedron {
+	edgeLength: 394,
+	square(): 268876.639164
+}
+Parallelepiped {
+	length: 680,
+	width: 98,
+	height: 486,
+	square(): 889496.000000
+}
+Tetrahedron {
+	edgeLength: 752,
+	square(): 979481.659883
+}
+Sphere {
+	radius: 98,
+	square(): 120687.423380
+}
+Tetrahedron {
+	edgeLength: 10,
+	square(): 173.205081
+}
+Parallelepiped {
+	length: 179,
+	width: 142,
+	height: 66,
+	square(): 93208.000000
+}
+Parallelepiped {
+	length: 425,
+	width: 472,
+	height: 978,
+	square(): 2155732.000000
+}
+Parallelepiped {
+	length: 966,
+	width: 797,
+	height: 748,
+	square(): 4177252.000000
+}
+Parallelepiped {
+	length: 272,
+	width: 516,
+	height: 86,
+	square(): 416240.000000
+}
+Sphere {
+	radius: 159,
+	square(): 317690.415502
+}
+Tetrahedron {
+	edgeLength: 900,
+	square(): 1402961.154131
+}
+Sphere {
+	radius: 197,
+	square(): 487688.277173
+}
+Tetrahedron {
+	edgeLength: 3,
+	square(): 15.588457
+}
+Parallelepiped {
+	length: 951,
+	width: 107,
+	height: 498,
+	square(): 1257282.000000
+}
+Tetrahedron {
+	edgeLength: 154,
+	square(): 41077.316952
+}
+Tetrahedron {
+	edgeLength: 906,
+	square(): 1421729.656682
+}
+Sphere {
+	radius: 3,
+	square(): 113.097336
+}
+Sphere {
+	radius: 784,
+	square(): 7723995.096340
+}
+Sphere {
+	radius: 797,
+	square(): 7982271.711576
+}
+Parallelepiped {
+	length: 633,
+	width: 115,
+	height: 560,
+	square(): 983350.000000
+}
+Sphere {
+	radius: 14,
+	square(): 2463.008640
+}
+Tetrahedron {
+	edgeLength: 897,
+	square(): 1393623.668227
+}
+Tetrahedron {
+	edgeLength: 97,
+	square(): 16296.866048
+}
+Parallelepiped {
+	length: 329,
+	width: 349,
+	height: 313,
+	square(): 654070.000000
+}
+Parallelepiped {
+	length: 634,
+	width: 316,
+	height: 914,
+	square(): 2137288.000000
+}
+Tetrahedron {
+	edgeLength: 775,
+	square(): 1040313.016296
+}
+Tetrahedron {
+	edgeLength: 986,
+	square(): 1683892.866915
+}
+Tetrahedron {
+	edgeLength: 626,
+	square(): 678749.142267
+}
+Sphere {
+	radius: 616,
+	square(): 4768384.727842
+}
+Parallelepiped {
+	length: 569,
+	width: 752,
+	height: 409,
+	square(): 1936354.000000
+}
+Parallelepiped {
+	length: 515,
+	width: 395,
+	height: 833,
+	square(): 1922910.000000
+}
+Parallelepiped {
+	length: 776,
+	width: 847,
+	height: 613,
+	square(): 3304342.000000
+}
+Tetrahedron {
+	edgeLength: 300,
+	square(): 155884.572681
+}
+Sphere {
+	radius: 786,
+	square(): 7763453.500069
+}
+Sphere {
+	radius: 763,
+	square(): 7315751.414191
+}
+Parallelepiped {
+	length: 508,
+	width: 397,
+	height: 416,
+	square(): 1156312.000000
+}
+Tetrahedron {
+	edgeLength: 982,
+	square(): 1670258.162958
+}
+Parallelepiped {
+	length: 540,
+	width: 320,
+	height: 826,
+	square(): 1766320.000000
+}
+Sphere {
+	radius: 565,
+	square(): 4011499.659369
+}
+Tetrahedron {
+	edgeLength: 499,
+	square(): 431282.383135
+}
+Tetrahedron {
+	edgeLength: 546,
+	square(): 516352.058549
+}
+Parallelepiped {
+	length: 853,
+	width: 62,
+	height: 303,
+	square(): 660262.000000
+}
+Tetrahedron {
+	edgeLength: 842,
+	square(): 1227961.668737
+}
+Sphere {
+	radius: 534,
+	square(): 3583375.978908
+}
+Parallelepiped {
+	length: 810,
+	width: 834,
+	height: 869,
+	square(): 4208352.000000
+}
+Parallelepiped {
+	length: 815,
+	width: 984,
+	height: 696,
+	square(): 4108128.000000
+}
+Parallelepiped {
+	length: 382,
+	width: 465,
+	height: 451,
+	square(): 1119254.000000
+}
+Sphere {
+	radius: 361,
+	square(): 1637661.984834
+}
+Sphere {
+	radius: 37,
+	square(): 17203.361371
+}
+Sphere {
+	radius: 861,
+	square(): 9315714.430207
+}
+Parallelepiped {
+	length: 981,
+	width: 360,
+	height: 88,
+	square(): 942336.000000
+}
+Tetrahedron {
+	edgeLength: 620,
+	square(): 665800.330429
+}
+Sphere {
+	radius: 293,
+	square(): 1078810.350872
+}
+Sphere {
+	radius: 628,
+	square(): 4955975.508373
+}
+Parallelepiped {
+	length: 708,
+	width: 162,
+	height: 942,
+	square(): 1868472.000000
+}
+Tetrahedron {
+	edgeLength: 996,
+	square(): 1718222.113921
+}
+Parallelepiped {
+	length: 466,
+	width: 811,
+	height: 500,
+	square(): 2032852.000000
+}
+Parallelepiped {
+	length: 487,
+	width: 234,
+	height: 332,
+	square(): 706660.000000
+}
+Parallelepiped {
+	length: 950,
+	width: 693,
+	height: 633,
+	square(): 3396738.000000
+}
+Parallelepiped {
+	length: 880,
+	width: 494,
+	height: 293,
+	square(): 1674604.000000
+}
+Parallelepiped {
+	length: 854,
+	width: 382,
+	height: 444,
+	square(): 1750024.000000
+}
+Tetrahedron {
+	edgeLength: 323,
+	square(): 180703.128703
+}
+Sphere {
+	radius: 751,
+	square(): 7087445.592869
+}
+Tetrahedron {
+	edgeLength: 873,
+	square(): 1320046.149922
+}
+Tetrahedron {
+	edgeLength: 465,
+	square(): 374512.685867
+}
+Tetrahedron {
+	edgeLength: 681,
+	square(): 803257.614569
+}
+Tetrahedron {
+	edgeLength: 683,
+	square(): 807982.649172
+}
+Tetrahedron {
+	edgeLength: 977,
+	square(): 1653292.725298
+}
+Parallelepiped {
+	length: 14,
+	width: 464,
+	height: 769,
+	square(): 748156.000000
+}
+Tetrahedron {
+	edgeLength: 107,
+	square(): 19830.249696
+}
+Sphere {
+	radius: 391,
+	square(): 1921159.305894
+}
+Parallelepiped {
+	length: 411,
+	width: 623,
+	height: 587,
+	square(): 1726022.000000
+}
+Sphere {
+	radius: 836,
+	square(): 8782586.156893
+}
+Tetrahedron {
+	edgeLength: 439,
+	square(): 333802.563685
+}
+Sphere {
+	radius: 620,
+	square(): 4830512.864160
+}
+Tetrahedron {
+	edgeLength: 371,
+	square(): 238401.205205
+}
+Tetrahedron {
+	edgeLength: 418,
+	square(): 302630.845302
+}
+Sphere {
+	radius: 534,
+	square(): 3583375.978908
+}
+Sphere {
+	radius: 764,
+	square(): 7334940.262119
+}
+Parallelepiped {
+	length: 697,
+	width: 800,
+	height: 67,
+	square(): 1315798.000000
+}
+Parallelepiped {
+	length: 335,
+	width: 433,
+	height: 490,
+	square(): 1042750.000000
+}
+Sphere {
+	radius: 132,
+	square(): 218956.441585
+}
+Sphere {
+	radius: 529,
+	square(): 3516585.719093
+}
+Parallelepiped {
+	length: 690,
+	width: 292,
+	height: 147,
+	square(): 691668.000000
+}
+Parallelepiped {
+	length: 349,
+	width: 335,
+	height: 422,
+	square(): 811126.000000
+}
+Tetrahedron {
+	edgeLength: 968,
+	square(): 1622973.175911
+}
+Sphere {
+	radius: 255,
+	square(): 817128.249199
+}
+Sphere {
+	radius: 766,
+	square(): 7373393.356199
+}
+Sphere {
+	radius: 936,
+	square(): 11009347.029758
+}
+Parallelepiped {
+	length: 260,
+	width: 52,
+	height: 220,
+	square(): 164320.000000
+}
+Parallelepiped {
+	length: 204,
+	width: 287,
+	height: 983,
+	square(): 1082402.000000
+}
+Tetrahedron {
+	edgeLength: 721,
+	square(): 900391.023857
+}
+Parallelepiped {
+	length: 997,
+	width: 205,
+	height: 127,
+	square(): 714078.000000
+}
+Sphere {
+	radius: 728,
+	square(): 6659975.363681
+}
+Tetrahedron {
+	edgeLength: 170,
+	square(): 50056.268339
+}
+Tetrahedron {
+	edgeLength: 798,
+	square(): 1102976.882463
+}
+Tetrahedron {
+	edgeLength: 563,
+	square(): 549006.412424
+}
+Parallelepiped {
+	length: 660,
+	width: 883,
+	height: 616,
+	square(): 3066536.000000
+}
+Parallelepiped {
+	length: 223,
+	width: 382,
+	height: 292,
+	square(): 523692.000000
+}
+Parallelepiped {
+	length: 35,
+	width: 553,
+	height: 563,
+	square(): 700798.000000
+}
+Parallelepiped {
+	length: 862,
+	width: 768,
+	height: 895,
+	square(): 4241732.000000
+}
+Parallelepiped {
+	length: 660,
+	width: 968,
+	height: 376,
+	square(): 2502016.000000
+}
+Parallelepiped {
+	length: 173,
+	width: 503,
+	height: 887,
+	square(): 1373262.000000
+}
+Parallelepiped {
+	length: 673,
+	width: 57,
+	height: 481,
+	square(): 778982.000000
+}
+Sphere {
+	radius: 929,
+	square(): 10845293.061387
+}
+Tetrahedron {
+	edgeLength: 44,
+	square(): 3353.250363
+}
+Sphere {
+	radius: 280,
+	square(): 985203.456166
+}
+Parallelepiped {
+	length: 209,
+	width: 855,
+	height: 747,
+	square(): 1947006.000000
+}
+Parallelepiped {
+	length: 366,
+	width: 134,
+	height: 759,
+	square(): 857088.000000
+}
+Tetrahedron {
+	edgeLength: 742,
+	square(): 953604.820818
+}
+Tetrahedron {
+	edgeLength: 401,
+	square(): 278515.501908
+}
+Sphere {
+	radius: 171,
+	square(): 367453.243134
+}
+Sphere {
+	radius: 958,
+	square(): 11532962.560517
+}
+Parallelepiped {
+	length: 422,
+	width: 484,
+	height: 755,
+	square(): 1776556.000000
+}
+Sphere {
+	radius: 90,
+	square(): 101787.601976
+}
+Tetrahedron {
+	edgeLength: 71,
+	square(): 8731.268121
+}
+Tetrahedron {
+	edgeLength: 603,
+	square(): 629789.262089
+}
+Tetrahedron {
+	edgeLength: 320,
+	square(): 177362.002695
+}
+Tetrahedron {
+	edgeLength: 942,
+	square(): 1536959.532808
+}
+Parallelepiped {
+	length: 12,
+	width: 504,
+	height: 807,
+	square(): 844920.000000
+}
+Tetrahedron {
+	edgeLength: 358,
+	square(): 221986.559701
+}
+Tetrahedron {
+	edgeLength: 894,
+	square(): 1384317.359238
+}
+Tetrahedron {
+	edgeLength: 158,
+	square(): 43238.916360
+}
+Parallelepiped {
+	length: 90,
+	width: 560,
+	height: 626,
+	square(): 914600.000000
+}
+Sphere {
+	radius: 973,
+	square(): 11896947.485362
+}
+Parallelepiped {
+	length: 865,
+	width: 748,
+	height: 421,
+	square(): 2652186.000000
+}
+Parallelepiped {
+	length: 409,
+	width: 863,
+	height: 400,
+	square(): 1723534.000000
+}
+Parallelepiped {
+	length: 786,
+	width: 4,
+	height: 833,
+	square(): 1322428.000000
+}
+Parallelepiped {
+	length: 356,
+	width: 127,
+	height: 410,
+	square(): 486484.000000
+}
+Sphere {
+	radius: 631,
+	square(): 5003438.690184
+}
+Tetrahedron {
+	edgeLength: 128,
+	square(): 28377.920431
+}
+Parallelepiped {
+	length: 446,
+	width: 374,
+	height: 458,
+	square(): 1084728.000000
+}
+Tetrahedron {
+	edgeLength: 10,
+	square(): 173.205081
+}
+Sphere {
+	radius: 165,
+	square(): 342119.439976
+}
+Sphere {
+	radius: 867,
+	square(): 9446002.560737
+}
+Tetrahedron {
+	edgeLength: 926,
+	square(): 1485191.998271
+}
+Sphere {
+	radius: 238,
+	square(): 711809.497080
+}
+Tetrahedron {
+	edgeLength: 705,
+	square(): 860872.552632
+}
+Sphere {
+	radius: 562,
+	square(): 3969012.760322
+}
+Parallelepiped {
+	length: 832,
+	width: 348,
+	height: 461,
+	square(): 1667032.000000
+}
+Sphere {
+	radius: 807,
+	square(): 8183836.296231
+}
+Tetrahedron {
+	edgeLength: 497,
+	square(): 427832.137927
+}
+Parallelepiped {
+	length: 538,
+	width: 128,
+	height: 139,
+	square(): 322876.000000
+}
+Parallelepiped {
+	length: 470,
+	width: 585,
+	height: 392,
+	square(): 1377020.000000
+}
+Sphere {
+	radius: 542,
+	square(): 3691547.297157
+}
+Tetrahedron {
+	edgeLength: 533,
+	square(): 492056.581871
+}
+Sphere {
+	radius: 743,
+	square(): 6937252.331286
+}
+Tetrahedron {
+	edgeLength: 550,
+	square(): 523945.369290
+}
+Parallelepiped {
+	length: 485,
+	width: 788,
+	height: 720,
+	square(): 2597480.000000
+}
+Parallelepiped {
+	length: 140,
+	width: 634,
+	height: 647,
+	square(): 1179076.000000
+}
+Tetrahedron {
+	edgeLength: 983,
+	square(): 1673661.642795
+}
+Tetrahedron {
+	edgeLength: 694,
+	square(): 834218.022754
+}
+Parallelepiped {
+	length: 630,
+	width: 191,
+	height: 63,
+	square(): 344106.000000
+}
+Tetrahedron {
+	edgeLength: 320,
+	square(): 177362.002695
+}
+Tetrahedron {
+	edgeLength: 538,
+	square(): 501331.713946
+}
+Parallelepiped {
+	length: 492,
+	width: 930,
+	height: 422,
+	square(): 2115288.000000
+}
+Parallelepiped {
+	length: 685,
+	width: 308,
+	height: 94,
+	square(): 608644.000000
+}
+Tetrahedron {
+	edgeLength: 708,
+	square(): 868214.716005
+}
+Parallelepiped {
+	length: 802,
+	width: 545,
+	height: 784,
+	square(): 2986276.000000
+}
+Parallelepiped {
+	length: 87,
+	width: 925,
+	height: 157,
+	square(): 478718.000000
+}
+Parallelepiped {
+	length: 602,
+	width: 492,
+	height: 548,
+	square(): 1791392.000000
+}
+Sphere {
+	radius: 986,
+	square(): 12216975.245798
+}
+Sphere {
+	radius: 840,
+	square(): 8866831.105492
+}
+Sphere {
+	radius: 51,
+	square(): 32685.129968
+}
+Parallelepiped {
+	length: 956,
+	width: 589,
+	height: 654,
+	square(): 3147028.000000
+}
+Tetrahedron {
+	edgeLength: 872,
+	square(): 1317023.721262
+}
+Parallelepiped {
+	length: 482,
+	width: 557,
+	height: 88,
+	square(): 719812.000000
+}
+Sphere {
+	radius: 337,
+	square(): 1427150.144302
+}
+Parallelepiped {
+	length: 220,
+	width: 139,
+	height: 694,
+	square(): 559452.000000
+}
+Tetrahedron {
+	edgeLength: 14,
+	square(): 339.481958
+}
+Sphere {
+	radius: 282,
+	square(): 999328.056736
+}
+Tetrahedron {
+	edgeLength: 869,
+	square(): 1307977.219895
+}
+Parallelepiped {
+	length: 15,
+	width: 417,
+	height: 884,
+	square(): 776286.000000
+}
+Parallelepiped {
+	length: 299,
+	width: 724,
+	height: 754,
+	square(): 1975636.000000
+}
+Parallelepiped {
+	length: 236,
+	width: 710,
+	height: 292,
+	square(): 887584.000000
+}
+Tetrahedron {
+	edgeLength: 158,
+	square(): 43238.916360
+}
+Parallelepiped {
+	length: 23,
+	width: 641,
+	height: 721,
+	square(): 986974.000000
+}
+Tetrahedron {
+	edgeLength: 569,
+	square(): 560770.501509
+}
+Parallelepiped {
+	length: 260,
+	width: 790,
+	height: 902,
+	square(): 2305000.000000
+}
+Sphere {
+	radius: 147,
+	square(): 271546.702606
+}
+Sphere {
+	radius: 89,
+	square(): 99538.221636
+}
+Parallelepiped {
+	length: 439,
+	width: 958,
+	height: 17,
+	square(): 888622.000000
+}
+Sphere {
+	radius: 375,
+	square(): 1767145.867644
+}
+Parallelepiped {
+	length: 511,
+	width: 674,
+	height: 978,
+	square(): 3006688.000000
+}
+Parallelepiped {
+	length: 377,
+	width: 566,
+	height: 976,
+	square(): 2267500.000000
+}
+Parallelepiped {
+	length: 161,
+	width: 134,
+	height: 833,
+	square(): 534618.000000
+}
+Tetrahedron {
+	edgeLength: 127,
+	square(): 27936.247475
+}
+Parallelepiped {
+	length: 999,
+	width: 697,
+	height: 316,
+	square(): 2464478.000000
+}
+Parallelepiped {
+	length: 839,
+	width: 570,
+	height: 567,
+	square(): 2554266.000000
+}
+Tetrahedron {
+	edgeLength: 486,
+	square(): 409103.472545
+}
+Parallelepiped {
+	length: 767,
+	width: 277,
+	height: 966,
+	square(): 2441926.000000
+}
+Sphere {
+	radius: 435,
+	square(): 2377871.479502
+}
+Tetrahedron {
+	edgeLength: 37,
+	square(): 2371.177556
+}
+Sphere {
+	radius: 719,
+	square(): 6496323.519170
+}
+Sphere {
+	radius: 212,
+	square(): 564782.960892
+}
+Tetrahedron {
+	edgeLength: 934,
+	square(): 1510964.914288
+}
+Tetrahedron {
+	edgeLength: 117,
+	square(): 23710.043505
+}
+Parallelepiped {
+	length: 674,
+	width: 950,
+	height: 631,
+	square(): 3330088.000000
+}
+Sphere {
+	radius: 208,
+	square(): 543671.458260
+}
+Tetrahedron {
+	edgeLength: 851,
+	square(): 1254352.926892
+}
+Tetrahedron {
+	edgeLength: 242,
+	square(): 101435.823494
+}
+Parallelepiped {
+	length: 447,
+	width: 161,
+	height: 676,
+	square(): 965950.000000
+}
+Parallelepiped {
+	length: 169,
+	width: 795,
+	height: 563,
+	square(): 1354174.000000
+}
+Sphere {
+	radius: 931,
+	square(): 10892039.960073
+}
+Tetrahedron {
+	edgeLength: 180,
+	square(): 56118.446165
+}
+Sphere {
+	radius: 297,
+	square(): 1108466.985522
+}
+Tetrahedron {
+	edgeLength: 688,
+	square(): 819855.857458
+}
+Tetrahedron {
+	edgeLength: 996,
+	square(): 1718222.113921
+}
+Parallelepiped {
+	length: 401,
+	width: 114,
+	height: 69,
+	square(): 162498.000000
+}
+Sphere {
+	radius: 416,
+	square(): 2174685.833039
+}
+Sphere {
+	radius: 582,
+	square(): 4256531.319978
+}
+Parallelepiped {
+	length: 682,
+	width: 433,
+	height: 502,
+	square(): 1710072.000000
+}
+Tetrahedron {
+	edgeLength: 123,
+	square(): 26204.196668
+}
+Parallelepiped {
+	length: 790,
+	width: 151,
+	height: 235,
+	square(): 680850.000000
+}
+Parallelepiped {
+	length: 946,
+	width: 799,
+	height: 447,
+	square(): 3071738.000000
+}
+Tetrahedron {
+	edgeLength: 502,
+	square(): 436483.731711
+}
+Sphere {
+	radius: 549,
+	square(): 3787516.669538
+}
+Tetrahedron {
+	edgeLength: 528,
+	square(): 482868.052337
+}
+Parallelepiped {
+	length: 13,
+	width: 876,
+	height: 563,
+	square(): 1023790.000000
+}
+Tetrahedron {
+	edgeLength: 990,
+	square(): 1697582.996498
+}
+Tetrahedron {
+	edgeLength: 194,
+	square(): 65187.464194
+}
+Parallelepiped {
+	length: 36,
+	width: 776,
+	height: 384,
+	square(): 679488.000000
+}
+Sphere {
+	radius: 209,
+	square(): 548911.634806
+}
+Parallelepiped {
+	length: 700,
+	width: 684,
+	height: 539,
+	square(): 2449552.000000
+}
+Parallelepiped {
+	length: 835,
+	width: 775,
+	height: 450,
+	square(): 2743250.000000
+}
+Parallelepiped {
+	length: 926,
+	width: 250,
+	height: 362,
+	square(): 1314424.000000
+}
+Tetrahedron {
+	edgeLength: 878,
+	square(): 1335210.254742
+}
+Tetrahedron {
+	edgeLength: 579,
+	square(): 580654.444780
+}
+Sphere {
+	radius: 853,
+	square(): 9143404.356343
+}
+Sphere {
+	radius: 634,
+	square(): 5051128.066665
+}
+Parallelepiped {
+	length: 711,
+	width: 977,
+	height: 105,
+	square(): 1743774.000000
+}
+Sphere {
+	radius: 736,
+	square(): 6807152.696316
+}
+Parallelepiped {
+	length: 34,
+	width: 472,
+	height: 565,
+	square(): 603876.000000
+}
+Tetrahedron {
+	edgeLength: 710,
+	square(): 873126.812095
+}
+Tetrahedron {
+	edgeLength: 632,
+	square(): 691822.661762
+}
+Sphere {
+	radius: 107,
+	square(): 143872.377164
+}
+Parallelepiped {
+	length: 376,
+	width: 558,
+	height: 601,
+	square(): 1542284.000000
+}
+Parallelepiped {
+	length: 160,
+	width: 963,
+	height: 82,
+	square(): 492332.000000
+}
+Tetrahedron {
+	edgeLength: 227,
+	square(): 89250.846063
+}
+Tetrahedron {
+	edgeLength: 796,
+	square(): 1097455.104489
+}
+Sphere {
+	radius: 958,
+	square(): 11532962.560517
+}
+Sphere {
+	radius: 554,
+	square(): 3856820.203477
+}
+Tetrahedron {
+	edgeLength: 407,
+	square(): 286912.484223
+}
+Sphere {
+	radius: 927,
+	square(): 10798646.693667
+}
+Parallelepiped {
+	length: 801,
+	width: 313,
+	height: 967,
+	square(): 2655902.000000
+}
+Parallelepiped {
+	length: 260,
+	width: 29,
+	height: 335,
+	square(): 208710.000000
+}
+Tetrahedron {
+	edgeLength: 631,
+	square(): 689635.081592
+}
+Sphere {
+	radius: 712,
+	square(): 6370446.184726
+}
+Tetrahedron {
+	edgeLength: 353,
+	square(): 215829.119080
+}
+Sphere {
+	radius: 662,
+	square(): 5507136.523519
+}
+Parallelepiped {
+	length: 628,
+	width: 96,
+	height: 551,
+	square(): 918424.000000
+}
+Tetrahedron {
+	edgeLength: 110,
+	square(): 20957.814772
+}
+Sphere {
+	radius: 641,
+	square(): 5163282.924399
+}
+Sphere {
+	radius: 481,
+	square(): 2907368.071709
+}
+Tetrahedron {
+	edgeLength: 90,
+	square(): 14029.611541
+}
+Sphere {
+	radius: 854,
+	square(): 9164855.150982
+}
+Parallelepiped {
+	length: 736,
+	width: 8,
+	height: 682,
+	square(): 1026592.000000
+}
+Sphere {
+	radius: 726,
+	square(): 6623432.357934
+}
+Parallelepiped {
+	length: 733,
+	width: 414,
+	height: 187,
+	square(): 1035902.000000
+}
+Parallelepiped {
+	length: 857,
+	width: 251,
+	height: 724,
+	square(): 2034598.000000
+}
+Tetrahedron {
+	edgeLength: 564,
+	square(): 550958.433684
+}
+Tetrahedron {
+	edgeLength: 723,
+	square(): 905393.186590
+}
+Parallelepiped {
+	length: 834,
+	width: 626,
+	height: 401,
+	square(): 2215088.000000
+}
+Parallelepiped {
+	length: 325,
+	width: 394,
+	height: 366,
+	square(): 782408.000000
+}
+Tetrahedron {
+	edgeLength: 589,
+	square(): 600884.798213
+}
+Tetrahedron {
+	edgeLength: 47,
+	square(): 3826.100234
+}
+Parallelepiped {
+	length: 826,
+	width: 784,
+	height: 803,
+	square(): 3880828.000000
+}
+Tetrahedron {
+	edgeLength: 840,
+	square(): 1222135.049821
+}
+Tetrahedron {
+	edgeLength: 155,
+	square(): 41612.520652
+}
+Tetrahedron {
+	edgeLength: 648,
+	square(): 727295.062301
+}
+Tetrahedron {
+	edgeLength: 290,
+	square(): 145665.472917
+}
+Sphere {
+	radius: 946,
+	square(): 11245846.124720
+}
+Tetrahedron {
+	edgeLength: 67,
+	square(): 7775.176075
+}
+Parallelepiped {
+	length: 104,
+	width: 790,
+	height: 408,
+	square(): 893824.000000
+}
+Tetrahedron {
+	edgeLength: 768,
+	square(): 1021605.135524
+}
+Tetrahedron {
+	edgeLength: 235,
+	square(): 95652.505848
+}
+Sphere {
+	radius: 555,
+	square(): 3870756.308488
+}
+Tetrahedron {
+	edgeLength: 251,
+	square(): 109120.932928
+}
+Tetrahedron {
+	edgeLength: 410,
+	square(): 291157.740752
+}
+Tetrahedron {
+	edgeLength: 291,
+	square(): 146671.794436
+}
+Tetrahedron {
+	edgeLength: 435,
+	square(): 327747.314062
+}
+Sphere {
+	radius: 448,
+	square(): 2522120.847784
+}
+Sphere {
+	radius: 681,
+	square(): 5827792.602486
+}
+Sphere {
+	radius: 200,
+	square(): 502654.824574
+}
+Sphere {
+	radius: 651,
+	square(): 5325640.432736
+}
+Sphere {
+	radius: 834,
+	square(): 8740614.479041
+}
+Tetrahedron {
+	edgeLength: 560,
+	square(): 543171.133254
+}
+Sphere {
+	radius: 164,
+	square(): 337985.104044
+}
+Parallelepiped {
+	length: 43,
+	width: 572,
+	height: 955,
+	square(): 1223842.000000
+}
+Sphere {
+	radius: 733,
+	square(): 6751772.701018
+}
+Tetrahedron {
+	edgeLength: 256,
+	square(): 113511.681725
+}
+Tetrahedron {
+	edgeLength: 496,
+	square(): 426112.211475
+}
+Tetrahedron {
+	edgeLength: 136,
+	square(): 32036.011737
+}
+Parallelepiped {
+	length: 510,
+	width: 428,
+	height: 846,
+	square(): 2023656.000000
+}
+Parallelepiped {
+	length: 875,
+	width: 294,
+	height: 924,
+	square(): 2674812.000000
+}
+Parallelepiped {
+	length: 250,
+	width: 125,
+	height: 885,
+	square(): 726250.000000
+}
+Parallelepiped {
+	length: 319,
+	width: 71,
+	height: 555,
+	square(): 478198.000000
+}
+Tetrahedron {
+	edgeLength: 324,
+	square(): 181823.765575
+}
+Sphere {
+	radius: 896,
+	square(): 10088483.391137
+}
+Parallelepiped {
+	length: 644,
+	width: 203,
+	height: 530,
+	square(): 1159284.000000
+}
+Parallelepiped {
+	length: 746,
+	width: 786,
+	height: 370,
+	square(): 2306392.000000
+}
+Parallelepiped {
+	length: 645,
+	width: 858,
+	height: 852,
+	square(): 3667932.000000
+}
+Tetrahedron {
+	edgeLength: 286,
+	square(): 141674.827856
+}
+Tetrahedron {
+	edgeLength: 805,
+	square(): 1122412.224575
+}
+Parallelepiped {
+	length: 344,
+	width: 730,
+	height: 421,
+	square(): 1406548.000000
+}
+Parallelepiped {
+	length: 207,
+	width: 658,
+	height: 200,
+	square(): 618412.000000
+}
+Sphere {
+	radius: 729,
+	square(): 6678284.565666
+}
+Tetrahedron {
+	edgeLength: 758,
+	square(): 995174.040200
+}
+Parallelepiped {
+	length: 179,
+	width: 7,
+	height: 772,
+	square(): 289690.000000
+}
+Tetrahedron {
+	edgeLength: 210,
+	square(): 76383.440614
+}
+Tetrahedron {
+	edgeLength: 904,
+	square(): 1415459.632758
+}
+Sphere {
+	radius: 440,
+	square(): 2432849.350940
+}
+Tetrahedron {
+	edgeLength: 902,
+	square(): 1409203.465241
+}
+Sphere {
+	radius: 485,
+	square(): 2955924.527763
+}
+Parallelepiped {
+	length: 946,
+	width: 123,
+	height: 804,
+	square(): 1951668.000000
+}
+Sphere {
+	radius: 637,
+	square(): 5099043.637818
+}
+Sphere {
+	radius: 833,
+	square(): 8719666.339227
+}
+Parallelepiped {
+	length: 448,
+	width: 392,
+	height: 69,
+	square(): 467152.000000
+}
+Parallelepiped {
+	length: 271,
+	width: 150,
+	height: 108,
+	square(): 172236.000000
+}
+Parallelepiped {
+	length: 556,
+	width: 287,
+	height: 388,
+	square(): 973312.000000
+}
+Sphere {
+	radius: 462,
+	square(): 2682216.409411
+}
+Parallelepiped {
+	length: 983,
+	width: 718,
+	height: 259,
+	square(): 2292706.000000
+}
+Parallelepiped {
+	length: 345,
+	width: 514,
+	height: 861,
+	square(): 1833858.000000
+}
+Parallelepiped {
+	length: 972,
+	width: 807,
+	height: 657,
+	square(): 3906414.000000
+}
+Tetrahedron {
+	edgeLength: 911,
+	square(): 1437465.338268
+}
+Sphere {
+	radius: 630,
+	square(): 4987592.496839
+}
+Tetrahedron {
+	edgeLength: 57,
+	square(): 5627.433074
+}
+Sphere {
+	radius: 137,
+	square(): 235858.210061
+}
+Parallelepiped {
+	length: 78,
+	width: 760,
+	height: 628,
+	square(): 1171088.000000
+}
+Tetrahedron {
+	edgeLength: 141,
+	square(): 34434.902105
+}
+Tetrahedron {
+	edgeLength: 825,
+	square(): 1178877.080902
+}
+Tetrahedron {
+	edgeLength: 865,
+	square(): 1295963.715493
+}
+Parallelepiped {
+	length: 833,
+	width: 848,
+	height: 358,
+	square(): 2616364.000000
+}
+Tetrahedron {
+	edgeLength: 623,
+	square(): 672259.147891
+}
+Parallelepiped {
+	length: 310,
+	width: 485,
+	height: 589,
+	square(): 1237210.000000
+}
+Tetrahedron {
+	edgeLength: 644,
+	square(): 718343.823728
+}
+Sphere {
+	radius: 412,
+	square(): 2133066.013564
+}
+Tetrahedron {
+	edgeLength: 893,
+	square(): 1381222.184445
+}
+Sphere {
+	radius: 300,
+	square(): 1130973.355292
+}
+Tetrahedron {
+	edgeLength: 120,
+	square(): 24941.531629
+}
+Sphere {
+	radius: 428,
+	square(): 2301958.034621
+}
+Tetrahedron {
+	edgeLength: 549,
+	square(): 522041.845452
+}
+Sphere {
+	radius: 737,
+	square(): 6825662.960231
+}
+Sphere {
+	radius: 241,
+	square(): 729867.371653
+}
+Tetrahedron {
+	edgeLength: 924,
+	square(): 1478783.410283
+}
+Tetrahedron {
+	edgeLength: 554,
+	square(): 531594.105656
+}
+Sphere {
+	radius: 658,
+	square(): 5440786.086675
+}
+Sphere {
+	radius: 554,
+	square(): 3856820.203477
+}
+Sphere {
+	radius: 319,
+	square(): 1278766.440088
+}
+Tetrahedron {
+	edgeLength: 118,
+	square(): 24117.075445
+}
+Tetrahedron {
+	edgeLength: 499,
+	square(): 431282.383135
+}
+Parallelepiped {
+	length: 506,
+	width: 263,
+	height: 318,
+	square(): 755240.000000
+}
+Parallelepiped {
+	length: 305,
+	width: 970,
+	height: 701,
+	square(): 2379250.000000
+}
+Parallelepiped {
+	length: 111,
+	width: 129,
+	height: 328,
+	square(): 186078.000000
+}
+Parallelepiped {
+	length: 186,
+	width: 417,
+	height: 55,
+	square(): 221454.000000
+}
+Parallelepiped {
+	length: 683,
+	width: 979,
+	height: 589,
+	square(): 3295150.000000
+}
+Tetrahedron {
+	edgeLength: 89,
+	square(): 13719.574447
+}
+Sphere {
+	radius: 853,
+	square(): 9143404.356343
+}
+Sphere {
+	radius: 880,
+	square(): 9731397.403760
+}
+Tetrahedron {
+	edgeLength: 211,
+	square(): 77112.634004
+}
+Parallelepiped {
+	length: 784,
+	width: 711,
+	height: 114,
+	square(): 1455708.000000
+}
+Tetrahedron {
+	edgeLength: 326,
+	square(): 184075.431625
+}
+Parallelepiped {
+	length: 42,
+	width: 632,
+	height: 107,
+	square(): 197324.000000
+}
+Sphere {
+	radius: 761,
+	square(): 7277449.116558
+}
+Parallelepiped {
+	length: 225,
+	width: 441,
+	height: 231,
+	square(): 506142.000000
+}
+Sphere {
+	radius: 210,
+	square(): 554176.944093
+}
+Tetrahedron {
+	edgeLength: 894,
+	square(): 1384317.359238
+}
+Tetrahedron {
+	edgeLength: 617,
+	square(): 659372.689883
+}
+Parallelepiped {
+	length: 483,
+	width: 58,
+	height: 82,
+	square(): 144752.000000
+}
+Sphere {
+	radius: 53,
+	square(): 35298.935056
+}
+Parallelepiped {
+	length: 213,
+	width: 617,
+	height: 314,
+	square(): 784082.000000
+}
+Tetrahedron {
+	edgeLength: 680,
+	square(): 800900.293420
+}
+Sphere {
+	radius: 641,
+	square(): 5163282.924399
+}
+Sphere {
+	radius: 564,
+	square(): 3997312.226945
+}
+Tetrahedron {
+	edgeLength: 638,
+	square(): 705020.888916
+}
+Tetrahedron {
+	edgeLength: 131,
+	square(): 29723.723909
+}
+Parallelepiped {
+	length: 242,
+	width: 709,
+	height: 545,
+	square(): 1379746.000000
+}
+Tetrahedron {
+	edgeLength: 824,
+	square(): 1176020.929120
+}
+Parallelepiped {
+	length: 463,
+	width: 71,
+	height: 2,
+	square(): 67882.000000
+}
+Sphere {
+	radius: 906,
+	square(): 10314929.389608
+}
+Sphere {
+	radius: 491,
+	square(): 3029513.194080
+}
+Tetrahedron {
+	edgeLength: 174,
+	square(): 52439.570250
+}
+Parallelepiped {
+	length: 656,
+	width: 388,
+	height: 161,
+	square(): 845224.000000
+}
+Sphere {
+	radius: 738,
+	square(): 6844198.356887
+}
+Parallelepiped {
+	length: 102,
+	width: 379,
+	height: 848,
+	square(): 893092.000000
+}
+Sphere {
+	radius: 766,
+	square(): 7373393.356199
+}
+Sphere {
+	radius: 42,
+	square(): 22167.077764
+}
+Parallelepiped {
+	length: 942,
+	width: 284,
+	height: 959,
+	square(): 2886524.000000
+}
+Sphere {
+	radius: 461,
+	square(): 2670617.649334
+}
+Sphere {
+	radius: 596,
+	square(): 4463775.904150
+}
+Sphere {
+	radius: 206,
+	square(): 533266.503391
+}
+Sphere {
+	radius: 356,
+	square(): 1592611.546181
+}
+Sphere {
+	radius: 435,
+	square(): 2377871.479502
+}
+Parallelepiped {
+	length: 454,
+	width: 962,
+	height: 744,
+	square(): 2980504.000000
+}
+Parallelepiped {
+	length: 702,
+	width: 257,
+	height: 432,
+	square(): 1189404.000000
+}
+Sphere {
+	radius: 451,
+	square(): 2556012.349331
+}
+Parallelepiped {
+	length: 171,
+	width: 299,
+	height: 904,
+	square(): 952018.000000
+}
+Tetrahedron {
+	edgeLength: 489,
+	square(): 414169.721157
+}
+Parallelepiped {
+	length: 539,
+	width: 784,
+	height: 582,
+	square(): 2385124.000000
+}
+Tetrahedron {
+	edgeLength: 272,
+	square(): 128144.046947
+}
+Parallelepiped {
+	length: 986,
+	width: 868,
+	height: 319,
+	square(): 2894548.000000
+}
+Tetrahedron {
+	edgeLength: 818,
+	square(): 1158956.764564
+}
+Parallelepiped {
+	length: 657,
+	width: 253,
+	height: 875,
+	square(): 1924942.000000
+}
+Parallelepiped {
+	length: 215,
+	width: 619,
+	height: 925,
+	square(): 1809070.000000
+}
+Parallelepiped {
+	length: 877,
+	width: 709,
+	height: 709,
+	square(): 3492534.000000
+}
+Parallelepiped {
+	length: 595,
+	width: 232,
+	height: 331,
+	square(): 823554.000000
+}
+Sphere {
+	radius: 522,
+	square(): 3424134.930483
+}
+Tetrahedron {
+	edgeLength: 446,
+	square(): 344532.618438
+}
+Parallelepiped {
+	length: 956,
+	width: 29,
+	height: 264,
+	square(): 575528.000000
+}
+Sphere {
+	radius: 424,
+	square(): 2259131.843567
+}
+Parallelepiped {
+	length: 448,
+	width: 744,
+	height: 794,
+	square(): 2559520.000000
+}
+Parallelepiped {
+	length: 772,
+	width: 804,
+	height: 872,
+	square(): 3989920.000000
+}
+Sphere {
+	radius: 267,
+	square(): 895843.994727
+}
+Sphere {
+	radius: 619,
+	square(): 4814943.130968
+}
+Tetrahedron {
+	edgeLength: 709,
+	square(): 870669.032000
+}
+Tetrahedron {
+	edgeLength: 254,
+	square(): 111744.989901
+}
+Parallelepiped {
+	length: 528,
+	width: 850,
+	height: 355,
+	square(): 1875980.000000
+}
+Sphere {
+	radius: 350,
+	square(): 1539380.400259
+}
+Parallelepiped {
+	length: 31,
+	width: 148,
+	height: 642,
+	square(): 239012.000000
+}
+Parallelepiped {
+	length: 177,
+	width: 906,
+	height: 568,
+	square(): 1551012.000000
+}
+Sphere {
+	radius: 508,
+	square(): 3242927.866224
+}
+Parallelepiped {
+	length: 698,
+	width: 303,
+	height: 987,
+	square(): 2398962.000000
+}
+Parallelepiped {
+	length: 107,
+	width: 211,
+	height: 469,
+	square(): 343438.000000
+}

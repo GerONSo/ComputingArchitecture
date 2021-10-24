@@ -1,0 +1,14 @@
+Tetrahedron {
+	edgeLength: 1,
+	square(): 1.732051
+}
+Parallelepiped {
+	length: 1,
+	width: 1,
+	height: 1,
+	square(): 6.000000
+}
+Sphere {
+	radius: 1,
+	square(): 12.566371
+}

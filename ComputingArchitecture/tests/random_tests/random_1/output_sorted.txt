@@ -1,0 +1,46 @@
+Tetrahedron {
+	edgeLength: 27,
+	square(): 1262.665039
+}
+Tetrahedron {
+	edgeLength: 59,
+	square(): 6029.268861
+}
+Tetrahedron {
+	edgeLength: 335,
+	square(): 194379.401879
+}
+Tetrahedron {
+	edgeLength: 530,
+	square(): 486533.071846
+}
+Parallelepiped {
+	length: 736,
+	width: 211,
+	height: 368,
+	square(): 1007584.000000
+}
+Tetrahedron {
+	edgeLength: 926,
+	square(): 1485191.998271
+}
+Parallelepiped {
+	length: 492,
+	width: 649,
+	height: 421,
+	square(): 1599338.000000
+}
+Sphere {
+	radius: 426,
+	square(): 2280494.673611
+}
+Sphere {
+	radius: 429,
+	square(): 2312727.414237
+}
+Parallelepiped {
+	length: 886,
+	width: 777,
+	height: 915,
+	square(): 4420134.000000
+}
